@@ -4,9 +4,10 @@ This is a Bash script that creates backups of important files and directories in
 
 ## Usage
 
-To use this script, simply run it from the command line in the project directory:
+To use this script, first Make the script executable and simply run it from the command line in the project directory:
 
 ```Bash
+chmod +x install_python38.sh
 ./do-backup.sh
 ```
 
