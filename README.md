@@ -8,6 +8,8 @@ To use this script, first Make the script executable and simply run it from the 
 
 ```Bash
 chmod +x install_python38.sh
+```
+```Bash
 ./do-backup.sh
 ```
 
