@@ -7,7 +7,7 @@ This is a Bash script that creates backups of important files and directories in
 To use this script, simply run it from the command line in the project directory:
 
 ```Bash
-$ bash do-backup.sh
+./do-backup.sh
 ```
 
 The script will check for existing backup directories and remove the oldest one if necessary. It will then create a new backup directory and move all non-zip, non-backup, and non-readme files to the new directory.
